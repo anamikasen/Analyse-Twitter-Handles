@@ -52,6 +52,7 @@ ____
 ##### Part 6: Sentimental Analysis:
 The final part of this project was to do a sentimental analysis of Barack Obama's tweets. I have used textblob library. For documentation, please refer: http://textblob.readthedocs.io/en/dev/
 ![sentanalysis](https://user-images.githubusercontent.com/31828834/40894268-6fbedcb4-6776-11e8-9089-f047ea8256e2.png)
+
 Here, 1, 0 and -1 resemble positive, neutral and negative sentiments respectively. We can see over 45% of his tweets are considered to be positive while less than 10% are negative.
 ***
 
