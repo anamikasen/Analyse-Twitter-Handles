@@ -11,7 +11,7 @@ Store the API keys in the credentials.py. It is a good practice to keep the keys
 ____
 
 ##### Part 2: Exploring Tweepy built-in methods
-The Tweepy API contains many built-in methods which can be used effectively. The project tries getting the number of tweets done by a handle using statuses_count()
+The Tweepy API contains many built-in methods which can be used effectively. The project tries getting the number of tweets done by a handle using 'statuses_count()'
 
 Interestingly, as of today (06/03/2018) Kanye West has tweeted 407 times. For more information, refer to Tweepy documentation: http://docs.tweepy.org/en/v3.5.0/api.html
 ____
